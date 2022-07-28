@@ -16,6 +16,11 @@
     height: 50px;
     background-color: black;
     animation: anima;
-    animation-duration: 4s;
+    animation-duration: 1s;
     animation-iteration-count: infinite;
+}
+
+@keyframes anima{
+    from{width: 0px;}
+    to{width: 500px;}
 }
