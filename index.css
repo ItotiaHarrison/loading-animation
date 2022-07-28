@@ -1,0 +1,11 @@
+.loading{
+    position: absolute;
+    top: 50%;
+    left: 30%;
+    width: 500px;
+    border: 2px solid blueviolet;
+    height: 50px;
+    border-radius: 30px;
+    z-index: 2;
+    padding: 2px;
+}
